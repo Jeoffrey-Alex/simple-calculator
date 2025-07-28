@@ -16,4 +16,4 @@ class calci
     int div();
 
     void display();     //print the result saying ADDITION.,,
-}
+};
